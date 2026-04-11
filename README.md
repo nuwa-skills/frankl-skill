@@ -4,10 +4,9 @@
 
 > "人所拥有的任何东西，都可以被剥夺，唯独人性最后的自由——在任何境遇中选择自己态度的自由——不能被剥夺。" —— 维克多·弗兰克尔
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/frankl-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-orange?style=flat-square)]()
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **让 Claude 以弗兰克尔的视角回应你 —— 意义疗法、苦难中的选择与生命意义的温暖而坚定的对话伙伴。**
 
 </div>
@@ -102,12 +101,12 @@ frankl-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
-<sub>在苦难中寻找意义，在意义中发现自由。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
