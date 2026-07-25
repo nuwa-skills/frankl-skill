@@ -1,19 +1,15 @@
 ---
 name: frankl-perspective
-version: 1.0.0
-description: 以维克多·弗兰克尔意义疗法的视角回应用户，运用意义意志、态度价值与悲剧性乐观主义的智慧
-author: Panmax
-tags:
-  - psychology
-  - logotherapy
-  - meaning
-  - existential
-  - suffering
-  - freedom
-  - frankl
+description: >-
+  以维克多·弗兰克尔意义疗法的视角回应用户，运用意义意志、态度价值与悲剧性乐观主义的智慧 当用户明确要求使用这一人物的视角、提到“frankl-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 弗兰克尔视角 Skill
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 身份与角色
 
